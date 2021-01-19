@@ -1,0 +1,56 @@
+Envoi : {'login': 'admin2', 'password': 'W'}
+Réponse : {'result': 'Wrong password!', 'time': 103946}
+Envoi : {'login': 'admin2', 'password': 'Wn'}
+Réponse : {'result': 'Wrong password!', 'time': 104765}
+Envoi : {'login': 'admin2', 'password': 'WnH'}
+Réponse : {'result': 'Wrong password!', 'time': 102278}
+Envoi : {'login': 'admin2', 'password': 'WnHD'}
+Réponse : {'result': 'Wrong password!', 'time': 100860}
+Envoi : {'login': 'admin2', 'password': 'WnHDe'}
+Réponse : {'result': 'Wrong password!', 'time': 107008}
+Envoi : {'login': 'admin2', 'password': 'WnHDe3'}
+Réponse : {'result': 'Wrong password!', 'time': 5953}
+Envoi : {'login': 'admin2', 'password': 'WnHDe37'}
+Réponse : {'result': 'Wrong password!', 'time': 8786}
+Envoi : {'login': 'admin2', 'password': 'WnHDe37j'}
+Réponse : {'result': 'Wrong password!', 'time': 9806}
+Envoi : {'login': 'admin2', 'password': 'WnHDe37jD'}
+Réponse : {'result': 'Wrong password!', 'time': 1099}
+Envoi : {'login': 'admin2', 'password': 'WnHDe37jDt'}
+Réponse : {'result': 'Wrong password!', 'time': 1127}
+Envoi : {'login': 'superadmin', 'password': 'X'}
+Réponse : {'result': 'Wrong password!', 'time': 103479}
+Envoi : {'login': 'superadmin', 'password': 'Xl'}
+Réponse : {'result': 'Wrong password!', 'time': 105174}
+Envoi : {'login': 'superadmin', 'password': 'XlQ'}
+Réponse : {'result': 'Wrong password!', 'time': 1266}
+Envoi : {'login': 'superadmin', 'password': 'XlQg'}
+Réponse : {'result': 'Wrong password!', 'time': 2178}
+Envoi : {'login': 'superadmin', 'password': 'XlQgh'}
+Réponse : {'result': 'Wrong password!', 'time': 1626}
+Envoi : {'login': 'superadmin', 'password': 'XlQgh7'}
+Réponse : {'result': 'Wrong password!', 'time': 1533}
+Envoi : {'login': 'superadmin', 'password': 'XlQgh70'}
+Réponse : {'result': 'Wrong password!', 'time': 3990}
+Envoi : {'login': 'superadmin', 'password': 'XlQgh701'}
+Réponse : {'result': 'Wrong password!', 'time': 1287}
+Envoi : {'login': 'superadmin', 'password': 'XlQgh701T'}
+Réponse : {'result': 'Wrong password!', 'time': 1067}
+Envoi : {'login': 'superadmin', 'password': 'XlQgh701Td'}
+Réponse : {'result': 'Wrong password!', 'time': 1017}
+Envoi : {'login': 'superadmin', 'password': '0'}
+Réponse : {'result': 'Wrong password!', 'time': 100790}
+Envoi : {'login': 'superadmin', 'password': '0A'}
+Réponse : {'result': 'Wrong password!', 'time': 106619}
+Envoi : {'login': 'superadmin', 'password': '0AI'}
+Réponse : {'result': 'Wrong password!', 'time': 100536}
+Envoi : {'login': 'superadmin', 'password': '0AIa'}
+Réponse : {'result': 'Wrong password!', 'time': 100546}
+Envoi : {'login': 'superadmin', 'password': '0AIac'}
+Réponse : {'result': 'Wrong password!', 'time': 101278}
+Envoi : {'login': 'superadmin', 'password': '0AIacD'}
+Réponse : {'result': 'Wrong password!', 'time': 102212}
+Envoi : {'login': 'superadmin', 'password': '0AIacDf'}
+Réponse : {'result': 'Wrong password!', 'time': 100441}
+Envoi : {'login': 'superadmin', 'password': '0AIacDfi'}
+Réponse : {'result': 'Connection success!', 'time': 363}
