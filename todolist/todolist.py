@@ -5,11 +5,10 @@ from sqlalchemy import Column, Integer, String, Date
 from datetime import datetime, timedelta
 from sqlalchemy.orm import sessionmaker
 
-# local_path = os.path.dirname(__file__)
+local_path = os.path.dirname(__file__)
 database = "todo.db"
-# db_file = os.path.join(local_path, database)
+db_file = os.path.join(local_path, database)
 db_engine = f'sqlite:///{database}?check_same_thread=False'
-# print(db_engine)
 
 engine = create_engine(db_engine)
 Base = declarative_base()
